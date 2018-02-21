@@ -1,5 +1,9 @@
 # Projects
-public
+public/
+dist/
+
+# VS Code
+.vscode/
 
 # Logs
 logs
